@@ -4,7 +4,7 @@ using System.Runtime.InteropServices;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace Garbage_Collector
+namespace Garbage.Collector
 {
     public class GarbageCollector
     {
